@@ -1,3 +1,25 @@
 body {
   background: blanchedalmond;
 }
+
+.container{
+  
+}
+
+.a{
+  display: flex;
+  justify-content: center;
+  border: 1px solid 
+}
+
+.b{
+  display: flex;
+  justify-content: center;
+  border: 1px solid 
+}
+
+.c{
+  display: flex;
+  justify-content: center;
+  border: 1px solid 
+}
